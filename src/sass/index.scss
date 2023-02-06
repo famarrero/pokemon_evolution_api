@@ -1,0 +1,12 @@
+@use 'vars';
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: vars.$colorGreenLight;
+}
